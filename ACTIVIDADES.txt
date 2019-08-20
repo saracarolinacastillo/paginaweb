@@ -1,0 +1,15 @@
+<HTML>
+<HEAD><TITLE>ACTIVIDADES</TITLE></HEAD>
+<BODY BGCOLOR="pink"> 
+<FONT FACE="Comic Sans MS",COLOR="BLACK",SIZE="30">
+<CENTER>ACTIVIDADES</CENTER>
+<CENTER><IMG SRC="actividades.jpg.jpge"width="600"height="200" border="1" solid="black"/></CENTER>
+</font>
+<font face="Comic Sans MS",color="white",size="18">
+<ol>
+<li><a href="index.HTML">901</a></li>
+</ol>
+</font>
+<font face="Comic Sans MS",color="black",size="28">
+
+<p>en el grado 901 se presentan varios tipos de actividades donde todos pueden desarrollar sus talentos
